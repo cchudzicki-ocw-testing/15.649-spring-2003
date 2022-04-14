@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: Public Company Mergers & Acquisitions and Corporate Governance
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/10641d0e41b6a11a2bb625b4b078850a_class12cablematarese.pdf
+file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
+resourcetype: Document
+title: class12cablematarese.pdf
+uid: 10641d0e-41b6-a11a-2bb6-25b4b078850a
+---
